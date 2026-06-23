@@ -18,3 +18,16 @@ Through this project, I learned:
 - Building interactive prototypes in Figma
 - Using icons and design resources effectively
 - Importance of spacing, alignment, and consistency in UI design
+## Project Demo
+
+A prototype walkthrough of the WhatsApp Clone UI design created using Figma.
+
+The demo video showcases:
+- Complete screen flow
+- User navigation between pages
+- Interactive prototype experience
+- UI design and layout
+
+### Demo Video
+
+https://youtu.be/ewli2wJ8JY8?si=LEsHuqLBkZE7oP6I
